@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/Jest SDK/1.1.2.meta
 guid: 62e3bc91a5d6fe945bd39f409c39a56b
+========
+guid: e987c6f149c2c6443875ffc685200bcb
+>>>>>>>> b639d85 (Update to v1.1.1):Assets/Samples/Jest SDK/1.1.1.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

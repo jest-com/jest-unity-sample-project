@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/Jest SDK/1.1.2/Demo Scene.meta
 guid: 8f4b6246a6c878549acda52b9d8c02c0
+========
+guid: b7a976f4f40e4794b9b1a63412f27f57
+>>>>>>>> b639d85 (Update to v1.1.1):Assets/Samples/Jest SDK/1.1.1/Demo Scene.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

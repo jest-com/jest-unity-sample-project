@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/Jest SDK/1.1.2/Demo Scene/Demo.asmdef.meta
 guid: 102ff93731099ab4eb80d88cf0f50cea
+========
+guid: dcd57893186d9334e89e135d09f35546
+>>>>>>>> b639d85 (Update to v1.1.1):Assets/Samples/Jest SDK/1.1.1/Demo Scene/Demo.asmdef.meta
 AssemblyDefinitionImporter:
   externalObjects: {}
   userData: 

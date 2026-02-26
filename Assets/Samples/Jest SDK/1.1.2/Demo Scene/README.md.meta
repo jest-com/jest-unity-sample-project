@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Samples/Jest SDK/1.1.2/Demo Scene/README.md.meta
 guid: 0509463f2c69a5c4fb6b0569244307ff
+========
+guid: 647d5385fdfa1894c9e274f5e3fcab89
+>>>>>>>> b639d85 (Update to v1.1.1):Assets/Samples/Jest SDK/1.1.1/Demo Scene/README.md.meta
 TextScriptImporter:
   externalObjects: {}
   userData: 
