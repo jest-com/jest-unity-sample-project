@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.jest.sdk": {
-      "version": "https://github.com/jest-com/jest-unity-sdk.git#1.6.0",
+      "version": "https://github.com/jest-com/jest-unity-sdk.git#1.7.0",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.1"
       },
-      "hash": "c14b3a272b129dd4fd1e4edaee2b7848048973b8"
+      "hash": "fdd260798d2bfee145f382dd4e2f18a576e44b4a"
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
