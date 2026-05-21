@@ -6,6 +6,7 @@ using UnityEngine.UI;
 using System.Collections;
 using System;
 using System.Linq;
+using TMPro;
 
 
 
@@ -195,5 +196,6 @@ namespace com.jest.demo
             });
 
         }
+
     }
 }
